@@ -1,3 +1,5 @@
 Navin line one through UI
 rebase first line
 second rebase commit
+[rebase_learn a8b8977] second rebase line
+ 1 file changed, 1 insertion(+)
